@@ -55,7 +55,7 @@ const App: React.FC = () => {
             className='btn btn-primary btn-sm'
             onClick={suggestTask}
           >
-            Suggest
+            Get
           </button>
         </h2>
         <div className='mt-3'>
